@@ -1,0 +1,94 @@
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.baml
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.g.cs
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\App.g.cs
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_MarkupCompile.cache
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.g.resources
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.Properties.Resources.resources
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csproj.GenerateResource.Cache
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe.config
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe.config
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.baml
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.g.cs
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\App.g.cs
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_MarkupCompile.cache
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.g.resources
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.Properties.Resources.resources
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csproj.GenerateResource.Cache
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csprojResolveAssemblyReference.cache
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_Content.g.cs
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\ELI.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\HANAYO.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\HONOKA.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\KOTORI.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\MAKI.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\NICO.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\NOZOMI.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\Off.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\RIN.mp3
+H:\共有\visualstudio\project\Synth Player ver0.1.2 by ふらん backup - コピー\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\UMI.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\ELI.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\HANAYO.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\HONOKA.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\KOTORI.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\MAKI.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\NICO.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\NOZOMI.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\Off.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\RIN.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\UMI.mp3
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe.config
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.baml
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.g.cs
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\App.g.cs
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_Content.g.cs
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_MarkupCompile.cache
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.g.resources
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.Properties.Resources.resources
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csproj.GenerateResource.Cache
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csprojResolveAssemblyReference.cache
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe.config
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\ELI.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\HANAYO.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\HONOKA.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\KOTORI.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\MAKI.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\NICO.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\NOZOMI.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\Off.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\RIN.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\music\Snowhalation\UMI.mp3
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csprojResolveAssemblyReference.cache
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.baml
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.g.cs
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\App.g.cs
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_Content.g.cs
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_MarkupCompile.cache
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.g.resources
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.Properties.Resources.resources
+C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\LoveLive! Player ver0.1.2 by ふらん\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csproj.GenerateResource.Cache
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\bin\Debug\Synth_Player_ver0_1_2_by_ふらん.exe.config
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.exe
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.pdb
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.csprojResolveAssemblyReference.cache
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.baml
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\MainWindow.g.cs
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\App.g.cs
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_Content.g.cs
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん_MarkupCompile.cache
+H:\共有\github\LoveLive! Player\Synth Player ver0.1.2 by ふらん\obj\Debug\Synth_Player_ver0_1_2_by_ふらん.g.resources
